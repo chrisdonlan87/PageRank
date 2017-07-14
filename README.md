@@ -1,4 +1,4 @@
-O(n) implementation of the page rank algorithm completed for class. 
+# O(n) implementation of the page rank algorithm completed for class. 
 
 Original readme read: 
 
@@ -13,4 +13,4 @@ line 469 (extra credit 1)
 line 472 (dbtra credit 2) 
 
 
-Chris Donlan
+### By Chris Donlan
