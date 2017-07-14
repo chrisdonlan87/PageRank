@@ -1,4 +1,4 @@
-# Page Rank Algorithm in C++
+ # Page Rank Algorithm in C++
 ### O(n) implementation of the page rank algorithm completed for class. 
 
 Original readme read: 
@@ -14,4 +14,4 @@ line 469 (extra credit 1)
 line 472 (dbtra credit 2) 
 
 
-### By Chris Donlan
+### By Chris Donlan 
