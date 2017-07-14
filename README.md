@@ -1,4 +1,5 @@
-# O(n) implementation of the page rank algorithm completed for class. 
+# Page Rank Algorithm in C++
+### O(n) implementation of the page rank algorithm completed for class. 
 
 Original readme read: 
 
